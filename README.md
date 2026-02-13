@@ -2,7 +2,7 @@
 
 This repository is the official implementation of the paper entitled: **CAMO-InstSynth: Few-shot Camouflage Instance Segmentation with Multi-Conditional Background Synthesis and Generative Augmentation**, accepted to the 18th Asian Conference
 on Intelligent Information and Database Systems (ACIIDS), 2026. <br>
-**Authors:** Thanh-Danh Nguyen, Trong-Tai Dam Vu, Bich-Nga Pham, Thanh Duc Ngo, Tam V. Nguyen, and Vinh-Tiep Nguyen†.
+**Authors:** Thanh-Danh Nguyen, Vinh-Tiep Nguyen†, Kunpeng Li, and Tam V. Nguyen.
 
 [[Paper]](https://doi.org/) [[Code]](https://github.com/danhntd/CAMO-InstSynth) [[Project Page]](https://danhntd.github.io/projects.html#CAMO-InstSynth)
 
@@ -36,12 +36,10 @@ conda env update -f enviroment.yml --prune
 
 
 
-
-
 ## 3. Training Pipeline
 
 
-## 4. Results
+## 4. Results and Visualization
 
 
 ## Citation
